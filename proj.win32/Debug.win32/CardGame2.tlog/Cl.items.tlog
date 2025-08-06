@@ -1,0 +1,11 @@
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\AppDelegate.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\AppDelegate.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\configs\loaders\LevelConfigLoader.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\LevelConfigLoader.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\controllers\GameController.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\GameController.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\GameScene.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\GameScene.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\managers\UndoManager.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\UndoManager.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\models\GameModel.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\GameModel.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\views\CardView.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\CardView.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\views\GameView.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\GameView.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\views\PlayfieldView.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\PlayfieldView.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\Classes\views\StackView.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\StackView.obj
+C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\main.cpp;C:\Users\38016\Desktop\project-sum\demo-my\demo-pro\CardGame2\proj.win32\Debug.win32\main.obj

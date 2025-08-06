@@ -1,0 +1,69 @@
+卷 工作 的文件夹 PATH 列表
+卷序列号为 8496-0A13
+O:.
+│  .DS_Store
+│  card_general.png
+│  DocTree.txt
+│  生成文件目录树.bat
+│  
+├─suits
+│      spade.png
+│      heart.png
+│      diamond.png
+│      club.png
+│      
+└─number
+        big_red_K.png
+        small_black_A.png
+        small_black_7.png
+        big_black_A.png
+        big_black_7.png
+        big_black_6.png
+        small_black_6.png
+        big_red_J.png
+        small_black_4.png
+        big_black_4.png
+        big_black_5.png
+        small_black_5.png
+        big_red_10.png
+        .DS_Store
+        big_black_Q.png
+        big_black_10.png
+        small_black_Q.png
+        big_red_8.png
+        small_black_2.png
+        big_black_2.png
+        big_black_3.png
+        small_black_3.png
+        big_red_9.png
+        small_red_6.png
+        small_red_A.png
+        small_red_7.png
+        small_red_5.png
+        small_red_10.png
+        small_red_4.png
+        small_black_10.png
+        small_red_Q.png
+        small_red_3.png
+        small_red_2.png
+        small_red_J.png
+        small_red_K.png
+        small_red_9.png
+        small_red_8.png
+        big_red_4.png
+        big_red_5.png
+        big_red_A.png
+        big_red_7.png
+        small_black_K.png
+        big_black_K.png
+        big_black_J.png
+        small_black_J.png
+        big_red_6.png
+        big_red_2.png
+        small_black_8.png
+        big_black_8.png
+        big_black_9.png
+        small_black_9.png
+        big_red_3.png
+        big_red_Q.png
+        
